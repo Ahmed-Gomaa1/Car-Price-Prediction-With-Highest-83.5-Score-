@@ -1,9 +1,11 @@
-Our problem is prediction of car prices
+Our problem is how to predict price of cars
 
-We solved it depend on kaggle dataset have some feature such as Manufacturer ,Model,Category,Fuel type,Drive wheels
+We solved it depend on kaggle dataset
 
-Doing some cleaning for data
+That have some feature such as Manufacturer ,Model,Category,Fuel type,Drive wheels
 
-Doing some Exploratory Data Analysis to understand data and make insights
+We Doing some cleaning for data
 
-Making modeling with 5 ML Algorithm and evaluate it 
+And Doing some Exploratory Data Analysis to understand data and make insights from it
+
+At the end we Making modeling with 5 ML Algorithm and evaluate it 
